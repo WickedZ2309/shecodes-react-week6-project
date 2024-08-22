@@ -19,7 +19,7 @@ export default function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/WickedZ2309/shecodes-react-week5-weather-app"
+            href="https://github.com/WickedZ2309/shecodes-react-week6-project"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -27,7 +27,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://shecodes-react-week5-weather-app-ag.netlify.app/"
+            href="https://shecodes-react-week6-project-ag.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
